@@ -1,18 +1,5 @@
 Creación de un Repositorio en GitHub
 
-Ingresa a tu cuenta de GitHub.
-Haz clic en el signo '+' en la esquina superior derecha y selecciona "Nuevo repositorio".
-Nombra tu repositorio "MiPractica".
-Deja el repositorio en "Público".
-Haz clic en "Crear repositorio".
-
-Clonar el Repositorio en VSCode
-
-En GitHub, copia la URL del repositorio con el botón "Code".
-Abre VSCode.
-Ve a la pestaña de "Source Control" (ícono de bifurcación y +) y selecciona "Clone Repository".
-Pega la URL y selecciona una ubicación en tu máquina.
-Abre el repositorio clonado.
 (Terminal: git clone URL_REPOSITORIO)
 
 Crear Rama Principal "main" en VSCode
